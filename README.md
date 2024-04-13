@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Undisclosed</h3>
+<h3 align="center">Release date TBA</h3>
 <div align="center">
 <a href="https://github.com/Lucarnm" target="_blank"> <img src="https://i.imgur.com/l8DhzQl.jpeg" width="400" ></a>
 <p>
