@@ -17,7 +17,6 @@
 <a href="https://github.com/Lucarnm" target="_blank"> <img src="https://i.imgur.com/l8DhzQl.jpeg" width="400" ></a>
 <p>
 <a href="https://github.com/Lucarnm" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </div>
 </td>
 
