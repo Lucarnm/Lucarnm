@@ -12,8 +12,8 @@
 ## Side Projects
 <tr>
 <td width="50%">
-<h3 align="center">Currently building SaaS for an specific healthcare niche</h3>
-<div align="center">
+<h3 align="left">Currently building SaaS for an specific healthcare niche</h3>
+<div align="left">
 <a href="https://github.com/Lucarnm" target="_blank"> <img src="https://i.imgur.com/l8DhzQl.jpeg" width="400" ></a>
 <p>
 <a href="https://github.com/Lucarnm" target="_blank">
