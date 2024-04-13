@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Release date TBA</h3>
+<h3 align="center">Currently building SaaS for an specific healthcare niche</h3>
 <div align="center">
 <a href="https://github.com/Lucarnm" target="_blank"> <img src="https://i.imgur.com/l8DhzQl.jpeg" width="400" ></a>
 <p>
@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </div>
 </td>
-<p>Currently building SaaS for an specific healthcare niche</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
