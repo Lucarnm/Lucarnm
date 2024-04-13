@@ -3,10 +3,9 @@
 </div>
 
 ## About me
-
 - ⭐ Chieff Information Officer 
 - 📲  Into tech, healthcare, business and anything that makes me curious
-- ✏️ Learning mostly Python and JavaScript | Frameworks: Node.js. Pytorch and TensorFlow
+- ✏️ Learning mostly Python and JavaScript | Frameworks: Node.js, Pytorch and TensorFlow
 <br>
 
 ## Side Projects
@@ -21,7 +20,6 @@
 </td>
 
 ## GitHub Analytics
-
 <a href="https://github.com/Lucarnm">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucarnm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
