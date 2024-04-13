@@ -9,7 +9,7 @@
 - ✏️ Learning Python and Java | Frameworks: Pytorch and TensorFlow
 <br>
 
-## Projects
+## Side Projects
 <table>
 <tr>
 <td width="50%">
@@ -22,4 +22,4 @@
 </div>
 </td>
   
-<p>Currently working on a SaaS for an specific healthcare niche -> MVP set for Q4 2024</p>
+<p>Currently building SaaS for an specific healthcare niche</p>
