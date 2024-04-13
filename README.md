@@ -10,7 +10,6 @@
 <br>
 
 ## Side Projects
-<table>
 <tr>
 <td width="50%">
 <h3 align="center">Currently building SaaS for an specific healthcare niche</h3>
