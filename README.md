@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/-Github-green?style=for-the-badge&color=1414b8>
 /a>
 </div>
+</td>
   
 <p>Currently working on a SaaS for an specific healthcare niche -> MVP set for Q4 2024</p>
 
