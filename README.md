@@ -18,6 +18,7 @@
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/-Github-green?style=for-the-badge&color=1414b8>
 /a>
+</div>
   
 <p>Currently working on a SaaS for an specific healthcare niche -> MVP set for Q4 2024</p>
 
