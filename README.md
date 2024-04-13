@@ -15,7 +15,7 @@
 <td width="50%">
 <h3 align="center">Undisclosed</h3>
 <div align="center">
-<a href="https://github.com/Lucarnm" target="_blank"> <img src="https://imgur.com/a/nB6KXSZ" width="400" alt="123"></a>
+<a href="https://github.com/Lucarnm" target="_blank"> <img src="https://imgur.com/a/nB6KXSZ" width="400" ></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
