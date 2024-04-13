@@ -6,7 +6,7 @@
 
 - ⭐ Chieff Information Officer 
 - 📲  Into tech, healthcare, business and anything that makes me curious
-- ✏️ Learning Python and Java | Frameworks: Pytorch and TensorFlow
+- ✏️ Learning mostly Python and JavaScript | Frameworks: Node.js. Pytorch and TensorFlow
 <br>
 
 ## Side Projects
