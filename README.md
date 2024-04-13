@@ -20,7 +20,7 @@
 </div>
 </td>
 
-## ⚙️ GitHub Analytics
+## GitHub Analytics
 
 <a href="https://github.com/Lucarnm">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucarnm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
