@@ -4,7 +4,7 @@
 
 ## About me
 
-- ⭐ CIO ⭐ 
+- ⭐ Chieff Information Officer ⭐ 
 - 📲  Into tech, healthcare, business and anything that makes me curious
 - ✏️ Learning Python and Java | Frameworks: Pytorch and TensorFlow
 <br>
