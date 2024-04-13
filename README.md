@@ -21,5 +21,4 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </div>
 </td>
-  
 <p>Currently building SaaS for an specific healthcare niche</p>
