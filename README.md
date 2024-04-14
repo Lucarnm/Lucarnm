@@ -3,7 +3,7 @@
 </div>
 
 ## About me
-- ⭐ Chieff Information Officer 
+- ⭐ Chief Information Officer 
 - 📲  Into tech, healthcare, business and anything that makes me curious
 - ✏️ Learning mostly Python and JavaScript | Frameworks: Node.js, Pytorch and TensorFlow
 <br>
