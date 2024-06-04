@@ -5,7 +5,7 @@
 ## About me
 - ⭐ Chief Information Officer 
 - 📲  Into tech, healthcare, business and anything that makes me curious
-- ✏️ Learning JavaScript
+- ✏️ Learning Front End developement
 <br>
 
 ## Side Projects
