@@ -1,8 +1,8 @@
 ## Hi, I'm Luis! 👋
 
-[![ealch.dev](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&link=https://ealch.dev/)](https://ealch.dev/)
-[![Twitter:lucarnm](https://img.shields.io/twitter/follow/_ealch?style=social)](https://twitter.com/lucarnm)
-[![Linkedin: ealch](https://img.shields.io/badge/-ealch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ealch/)](https://www.linkedin.com/in/ealch/)
+[![ealch.dev](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&link=https://profileluiscarneiro/)](https://www.linkedin.com/in/profileluiscarneiro/)
+[![Twitter:lucarnm](https://img.shields.io/twitter/follow/lucarnm?style=social)](https://twitter.com/lucarnm)
+[![Linkedin:lucarnm](https://img.shields.io/badge/-ealch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ealch/)](https://www.linkedin.com/in/ealch/)
 [![GitHub ealch](https://img.shields.io/github/followers/ealch?label=follow&style=social)](https://github.com/ealch)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ealch.ealch)
 
