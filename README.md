@@ -1,7 +1,7 @@
 ## Hi, I'm Luis! 👋
 
 <p>
-  I'm a tech enthusiast based in Barcelona, that loves to code. I love working in between product, engineering and business key users.
+  I'm a tech enthusiast based in Barcelona, that loves to code.
 </p>
 
 
