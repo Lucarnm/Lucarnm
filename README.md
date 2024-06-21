@@ -10,7 +10,7 @@
   I have experience as a <strong>Web Developer</strong> working with different frameworks since 2015. I have a strong background in React and Angular. Moreover, I also worked on the Backend side with Java and Node.
 </p>
 
-[![ealch.dev](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&link=https://profileluiscarneiro/)](https://www.linkedin.com/in/profileluiscarneiro/)
+
 [![Twitter:lucarnm](https://img.shields.io/twitter/follow/lucarnm?style=social)](https://twitter.com/lucarnm)
 [![Linkedin:lucarnm](https://img.shields.io/badge/-ealch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profileluiscarneiro/)]((https://www.linkedin.com/in/profileluiscarneiro/)
 [![GitHub lucarnm](https://img.shields.io/github/followers/ealch?label=follow&style=social)](https://github.com/lucarnm)
