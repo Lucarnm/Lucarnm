@@ -6,7 +6,7 @@
 
 
 [![Twitter:lucarnm](https://img.shields.io/twitter/follow/lucarnm?style=social)](https://twitter.com/lucarnm)
-[![Linkedin:lucarnm](https://img.shields.io/badge/-lucarnm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profileluiscarneiro/)]((https://www.linkedin.com/in/profileluiscarneiro/)
+[![Linkedin:lucarnm](https://img.shields.io/badge/-lucarnm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profileluiscarneiro/)](https://www.linkedin.com/in/profileluiscarneiro/)
 [![GitHub lucarnm](https://img.shields.io/github/followers/ealch?label=follow&style=social)](https://github.com/lucarnm)
 
 ### A little more about me...  
