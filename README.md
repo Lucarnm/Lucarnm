@@ -1,8 +1,8 @@
-## Hi, I'm Luis! 👋
+## Hey, I'm Luis! 👋
 
-<p>
-  I'm a tech enthusiast based in Barcelona, that loves to code.
-</p>
+I’m a relatively new self-taught front-end developer who loves to learn through teaching.
+
+---
 
 
 [![Twitter:lucarnm](https://img.shields.io/twitter/follow/lucarnm?style=social)](https://twitter.com/lucarnm)
@@ -22,3 +22,5 @@ const Luis = {
 <a href="https://github.com/Lucarnm">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucarnm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
+
+---
