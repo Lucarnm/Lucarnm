@@ -1,6 +1,6 @@
 ## Hey, I'm Luis! 👋
 
-I’m a relatively new self-taught front-end developer who loves to learn through teaching.
+I’m a relatively new self-taught front-end developer who loves to code and build applications.
 
 ---
 
