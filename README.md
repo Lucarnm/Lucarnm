@@ -13,7 +13,6 @@ I’m a relatively new self-taught front-end developer who loves to code and bui
 ### A little more about me...  
 ```javascript
 const Luis = {
-    pronouns: ["he", "him"],
     code: ["JavaScript", "HTML", "CSS"],
     askMeAbout: ["web devevelopment", "tech", "business"],
     technologies: ["Astro", "Webpack", "Testing Library", "Tailwind CSS"],
